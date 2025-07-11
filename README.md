@@ -17,7 +17,7 @@ To use these dotfiles on a new system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dotfiles.git
+   git clone https://github.com/Tomnguyen2604/dotfiles.git
    cd dotfiles
    ```
 
